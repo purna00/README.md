@@ -23,7 +23,7 @@ Building practical software solutions with
 
 I'm **Purna Shankar**, a **B.Tech Electronics & Communication Engineering graduate (2026)** passionate about software development, artificial intelligence, and building practical applications.
 
-I enjoy transforming ideas into working applications using **Python, Java, Machine Learning, Computer Vision, Web Technologies, and Databases**.
+I enjoy transforming ideas into working solutions using **Python, Java, Machine Learning, Computer Vision, Web Technologies, and Databases**.
 
 ### 🚀 What I Do
 
@@ -36,11 +36,11 @@ I enjoy transforming ideas into working applications using **Python, Java, Machi
 - 🗄️ SQL & Database Development
 - 🚀 Building Real-World Applications
 
-🎯 **Currently seeking entry-level opportunities in Software Development, Python, Full-Stack Development, and AI/ML.**
+🎯 **Currently seeking entry-level opportunities in Software Development, Python Development, Full-Stack Development, and AI/ML.**
 
 ---
 
-# 🛠️ Technology Stack
+# 🛠️ Technical Skills
 
 ### 💻 Programming Languages
 
@@ -62,7 +62,7 @@ I enjoy transforming ideas into working applications using **Python, Java, Machi
 
 **Machine Learning · Deep Learning · NLP · Computer Vision · YOLOv8 · TF-IDF · Object Detection**
 
-### 🗄️ Database & Tools
+### 🗄️ Database & Development Tools
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,docker" />
@@ -96,10 +96,33 @@ Deep learning-based computer vision system for detecting and classifying aircraf
 - Image-based defect localization
 - Multi-class defect classification
 - OpenCV image processing
-- Streamlit interface
-- Real-time prediction visualization
+- Streamlit web interface
+- Prediction visualization
 
 🔗 **[View Project →](https://github.com/purna00/Air-Defect-Detection-YOLOv8)**
+
+---
+
+## 💰 Indian Currency Recognition
+
+**Python · TensorFlow · MobileNetV2 · OpenCV · Streamlit**
+
+AI-powered computer vision application that identifies Indian currency denominations from images using a deep learning model.
+
+### 🧠 Key Features
+
+- Indian currency denomination classification
+- MobileNetV2 transfer learning
+- TensorFlow-based deep learning
+- OpenCV image processing
+- Confidence score visualization
+- Streamlit interactive interface
+
+### 💵 Supported Currency
+
+`₹10` · `₹20` · `₹50` · `₹100` · `₹200` · `₹500` · `₹2000`
+
+🔗 **[View Project →](https://github.com/purna00/currency-recognition)**
 
 ---
 
