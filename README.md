@@ -1,205 +1,220 @@
-# 👋 Hi, I'm Purna Shankar
+# Hi, I'm Purna Shankar 👋
 
 ### B.Tech ECE Graduate · Python Developer · Full-Stack Developer · AI/ML Enthusiast
 
-I build **practical, user-focused applications** across Python development, full-stack web development, machine learning, and computer vision.
+I’m an Electronics & Communication Engineering graduate focused on **Python development, full-stack web applications, machine learning, and computer vision**.
 
-Currently focused on strengthening my software development skills and building real-world projects that combine **technology, problem-solving, and clean user experiences**.
-
----
-
-## 🧑‍💻 About Me
-
-* 🎓 **B.Tech in Electronics & Communication Engineering — 2026 Graduate**
-* 💻 Interested in **Python Development & Full-Stack Development**
-* 🤖 Exploring **Artificial Intelligence, Machine Learning & Computer Vision**
-* 🧠 Experienced with building and deploying practical ML applications
-* 🚀 Interested in **entry-level Software, Python, Full-Stack, AI/ML & Technical roles**
-* 📚 Continuously learning, building, and improving
+I enjoy building practical applications that solve real problems — from **AI-powered defect detection and NLP-based classification** to **computer vision systems and responsive web experiences**.
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-### Programming
+🎓 **B.Tech — Electronics & Communication Engineering | 2026**
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+💻 Building applications with **Python, JavaScript, React.js, SQL and Streamlit**
 
-### Web Development
+🤖 Exploring **Machine Learning, Deep Learning and Computer Vision**
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
+🧠 Interested in writing clean, maintainable code and turning ideas into useful applications
 
-### AI / Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
-  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge&logo=yolo&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-</p>
-
-### Tools & Database
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-</p>
+🚀 Currently seeking opportunities to grow as a **Software / Python / Full-Stack / AI-ML Developer**
 
 ---
 
-## 🚀 Featured Projects
+## Technology Matrix
 
-### ✈️ Aircraft Surface Defect Detection
-
-**YOLOv8 · Computer Vision · Deep Learning · OpenCV · PyTorch · Streamlit**
-
-A deep learning-based system designed to identify and classify surface defects using the **NEU Surface Defect Dataset**.
-
-**Highlights**
-
-* 🎯 6 defect categories
-* 📊 **73.3% mAP@50**
-* 📈 **39.2% mAP@50–95**
-* 🖼️ Image-based defect detection
-* 🌐 Interactive Streamlit application
-
-**Defect Classes:** Crazing · Inclusion · Patches · Pitted Surface · Rolled-in Scale · Scratches
+| Area                        | Technologies                                            |
+| --------------------------- | ------------------------------------------------------- |
+| **Programming**             | Python · SQL · JavaScript                               |
+| **Frontend**                | HTML5 · CSS3 · Bootstrap · React.js                     |
+| **Application Development** | Python · Streamlit                                      |
+| **AI / Machine Learning**   | Machine Learning · Deep Learning · TensorFlow · PyTorch |
+| **Computer Vision**         | OpenCV · YOLOv8 · Image Processing · Object Detection   |
+| **Database**                | MySQL                                                   |
+| **Development Tools**       | Git · GitHub · VS Code                                  |
+| **Fundamentals**            | OOP · Networking Fundamentals · REST APIs               |
 
 ---
 
-### 📰 Fake News Detection
+# Featured Projects
 
-**Python · NLP · TF-IDF · Machine Learning · Logistic Regression · Streamlit**
+## 01 · Aircraft Surface Defect Detection
 
-A machine learning application that analyzes news content and predicts whether an article is **real or fake**.
+### YOLOv8 · Computer Vision · Deep Learning · PyTorch · OpenCV · Streamlit
 
-**Highlights**
+A deep learning-based application designed to detect and classify surface defects using the **NEU Surface Defect Dataset**.
+
+### Key Highlights
+
+* **YOLOv8** object detection model
+* 6 surface defect categories
+* **73.3% mAP@50**
+* **39.2% mAP@50–95**
+* Image-based defect detection
+* Interactive Streamlit interface
+
+**Defect Classes**
+
+`Crazing` · `Inclusion` · `Patches` · `Pitted Surface` · `Rolled-in Scale` · `Scratches`
+
+### Preview
+
+> Add your best application screenshot here.
+
+```text
+![Aircraft Defect Detection](./screenshots/aircraft-detection.png)
+```
+
+**Repository:**
+https://github.com/purna00/Air-Defect-Detection-YOLOv8
+
+---
+
+## 02 · Fake News Detection
+
+### NLP · TF-IDF · Logistic Regression · Python · Streamlit
+
+A machine learning application that analyzes news content and predicts whether an article is **Real or Fake**.
+
+### Key Highlights
 
 * Natural Language Processing
 * Text preprocessing
 * TF-IDF feature extraction
 * Logistic Regression classification
-* Interactive Streamlit interface
+* Interactive Streamlit application
+
+### Preview
+
+> Add your best application screenshot here.
+
+```text
+![Fake News Detection](./screenshots/fake-news-detection.png)
+```
+
+**Repository:**
+https://github.com/purna00/fake-news-detection
 
 ---
 
-### 💰 Currency Recognition System
+## 03 · Currency Recognition System
 
-**Python · OpenCV · Computer Vision · Image Processing · TensorFlow**
+### Python · OpenCV · TensorFlow · Computer Vision · Image Processing
 
-A computer vision-based application for recognizing currency using image processing and deep learning techniques.
+A computer vision-based system designed to recognize currency using image processing and deep learning techniques.
 
-**Highlights**
+### Key Highlights
 
 * Image preprocessing
 * Computer vision techniques
-* Deep learning classification
+* Deep learning
+* Image classification
 * Automated currency recognition
+
+### Preview
+
+> Add your best application screenshot here.
+
+```text
+![Currency Recognition](./screenshots/currency-recognition.png)
+```
+
+**Repository:**
+https://github.com/purna00/Currency-Recognition-System
 
 ---
 
-### 🛕 Mithranandapuram Vamanamoorthy Temple
+## 04 · Mithranandapuram Vamanamoorthy Temple
 
-**HTML5 · CSS3 · JavaScript · Responsive Web Design**
+### HTML5 · CSS3 · JavaScript · Responsive Web Design
 
-A responsive digital platform created to present the temple's **heritage, history, festivals, gallery, traditions, and information** through a modern web experience.
+A modern responsive website created to digitally present the temple's **heritage, history, festivals, traditions, gallery and important information**.
 
-**Highlights**
+### Key Highlights
 
 * Responsive design
 * Mobile-friendly interface
-* Heritage-focused presentation
+* Modern visual presentation
 * Interactive website components
-* Clean and accessible UI
+* Heritage-focused content
+
+### Preview
+
+> Add your best website screenshot here.
+
+```text
+![Temple Website](./screenshots/temple-website.png)
+```
+
+**Repository:**
+https://github.com/purna00/mithranandapuram-vamanamoorthy-temple
 
 ---
 
-## 📊 What I Work With
+# What I Build
 
 ```text
-Python              ███████████████████░░
-Machine Learning    ████████████████░░░░░
-Computer Vision     ████████████████░░░░░
-Web Development     ███████████████░░░░░
-SQL                 ██████████████░░░░░░
-React.js            ████████████░░░░░░░░
+AI / ML
+├── Machine Learning
+├── Deep Learning
+├── NLP
+└── Computer Vision
+
+Software Development
+├── Python
+├── Full-Stack Development
+├── REST APIs
+└── SQL / MySQL
+
+Web Development
+├── HTML
+├── CSS
+├── JavaScript
+├── Bootstrap
+└── React.js
 ```
 
 ---
 
-## 🎯 Current Focus
+# Current Focus
 
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│  🐍 Python Development                       │
-│  🌐 Full-Stack Web Development               │
-│  🤖 Artificial Intelligence & Machine Learning│
-│  👁️ Computer Vision                          │
-│  🗄️ SQL & Data Handling                      │
-│  🚀 Building Real-World Applications         │
-│                                              │
-└──────────────────────────────────────────────┘
-```
+* Building stronger **Python applications**
+* Improving **React.js & full-stack development**
+* Exploring **AI/ML and computer vision**
+* Strengthening **SQL and backend development**
+* Learning better software architecture and development practices
+* Building projects with real-world use cases
 
 ---
 
-## 📚 Learning & Growth
+# GitHub Philosophy
 
-I'm continuously working on:
+> **Build with purpose. Learn continuously. Improve every iteration.**
 
-* Advanced Python development
-* React.js and modern frontend development
-* Machine Learning & Deep Learning
-* Computer Vision
-* SQL and database development
-* Software development best practices
-* Deployment and application development
+I believe the best way to learn software development is by **building, testing, debugging, and continuously improving real projects**.
 
 ---
 
-## 📈 GitHub Activity
+# Let's Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=purna00&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purna00&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+If you're interested in collaborating, discussing technology, or exploring opportunities, feel free to connect.
 
----
+**GitHub:**
+https://github.com/purna00
 
-## 🤝 Let's Connect
+**LinkedIn:**
+YOUR_LINKEDIN_URL
 
-<p align="center">
-  <a href="https://github.com/purna00">
-    <img src="https://img.shields.io/badge/GitHub-purna00-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+**Email:**
+YOUR_EMAIL
 
 ---
 
 <p align="center">
-  <strong>💡 Build. Learn. Improve. Repeat.</strong>
+  <sub>Thanks for visiting my profile.</sub>
 </p>
 
 <p align="center">
-  Thanks for visiting my profile! ⭐
+  <sub>⭐ Explore my repositories to see what I'm building.</sub>
 </p>
