@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Purna Shankar
 
-### B.Tech ECE Graduate · Python Developer · Full-Stack Developer · AI/ML Enthusiast
+### B.Tech ECE Graduate (2026) · Python Developer · Full-Stack Developer · AI/ML Enthusiast
 
 Building practical applications with **Python, Web Development, Machine Learning & Computer Vision.**
 
@@ -20,6 +20,10 @@ Building practical applications with **Python, Web Development, Machine Learning
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=purna00&label=Profile%20Views&color=0e75b6&style=for-the-badge">
+
 </div>
 
 ---
@@ -30,33 +34,35 @@ I'm **Purna Shankar**, a **B.Tech Electronics & Communication Engineering gradua
 
 I enjoy building practical applications that combine **problem-solving, clean interfaces, data, and intelligent systems**.
 
-My work spans:
+### What I Work With
 
-- 🐍 Python Development
-- 🌐 Full-Stack Web Development
-- 🤖 Machine Learning & Deep Learning
-- 👁️ Computer Vision
-- 📰 Natural Language Processing
-- 🗄️ SQL & Database Development
-- 📱 Responsive Web Development
+- 🐍 **Python Development**
+- 🌐 **Full-Stack Web Development**
+- 🤖 **Machine Learning & Deep Learning**
+- 👁️ **Computer Vision**
+- 📰 **Natural Language Processing**
+- 🗄️ **SQL & Database Development**
+- 📱 **Responsive Web Development**
 
-I'm actively seeking opportunities where I can contribute to real-world projects, strengthen my technical skills, and grow as a software professional.
+🎯 I'm actively seeking **entry-level Software Development, Python, Full-Stack and AI/ML opportunities** where I can contribute to real-world projects and continue growing as a software professional.
 
 ---
 
-## 🛠️ Technology Matrix
+## 🛠️ Technology Stack
 
-| Category | Technologies |
-|---|---|
-| **Programming** | Python · SQL · JavaScript |
-| **Frontend** | HTML5 · CSS3 · Bootstrap · React.js |
-| **Backend / Apps** | Python · Streamlit |
-| **AI / ML** | Machine Learning · Deep Learning · TensorFlow · PyTorch |
-| **Computer Vision** | OpenCV · YOLOv8 · Image Processing · Object Detection |
-| **NLP** | Text Processing · TF-IDF · Classification |
-| **Database** | MySQL |
-| **Tools** | Git · GitHub · VS Code |
-| **Fundamentals** | OOP · Networking Fundamentals · REST APIs |
+### Programming & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,bootstrap,react,mysql,git,github,vscode">
+</p>
+
+### AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv">
+</p>
+
+**Machine Learning · Deep Learning · NLP · Computer Vision · YOLOv8 · TF-IDF · Object Detection**
 
 ---
 
@@ -66,7 +72,7 @@ I'm actively seeking opportunities where I can contribute to real-world projects
 
 **YOLOv8 · Deep Learning · Computer Vision · PyTorch · OpenCV · Streamlit**
 
-A deep learning-based system designed to detect and classify aircraft surface defects using the **NEU Surface Defect Dataset**.
+Deep learning-based application for detecting and classifying aircraft surface defects using the **NEU Surface Defect Dataset**.
 
 ### 📊 Model Performance
 
@@ -76,8 +82,7 @@ A deep learning-based system designed to detect and classify aircraft surface de
 | **mAP@50–95** | **39.2%** |
 | **Defect Categories** | **6** |
 
-**Detected Classes**
-
+**Classes:**  
 `Crazing` · `Inclusion` · `Patches` · `Pitted Surface` · `Rolled-in Scale` · `Scratches`
 
 ### 🖼️ Application Preview
@@ -98,9 +103,9 @@ A deep learning-based system designed to detect and classify aircraft surface de
 
 **Python · NLP · TF-IDF · Logistic Regression · Streamlit**
 
-A machine learning application that analyzes news content and predicts whether an article is **Real or Fake**.
+Machine learning application that analyzes news content and predicts whether an article is **Real or Fake**.
 
-### 🔍 Approach
+### 🔍 Pipeline
 
 ```text
 News Article
